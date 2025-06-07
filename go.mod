@@ -1,3 +1,3 @@
-module github.com/varunsp-163/go_server
+module go-server
 
-go 1.24.3
+go 1.24.4
